@@ -1,0 +1,5 @@
+git clone - puxa para o pc as informações do repositorio git
+git status - verifica as pendencias na pasta local
+git add . - informa ao git que alterações feitas na pasta local deve ser comitado
+git commit -m "Inclusão de anotações do curso Git/GitHub - gera um commit local, para posteriormente ser enviado à nuvem
+git push origin main - envia todo os commits pendentes locais para a nuvem
